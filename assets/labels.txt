@@ -1,0 +1,16 @@
+chacho
+delfin
+gallina
+gato
+hipopotamo
+jirafa
+leon
+mono
+oveja
+perro
+ser humano
+pez
+serpiente
+tigre
+tortuga
+vaca
